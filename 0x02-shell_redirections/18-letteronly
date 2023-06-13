@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^\w" /etc/ssh/sshd_config
+tr 'A' 'Z' <&0 | tr 'c' 'e'

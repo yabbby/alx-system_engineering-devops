@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# print the pidof this badh script
+echo $$

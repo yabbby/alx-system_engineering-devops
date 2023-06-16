@@ -1,0 +1,1 @@
+A fun game called CMD CHALLENGE tests your Bash skills. The command line is used for everything, and the queries are getting harder to answer. It's an excellent course to sharpen your command line abilities!

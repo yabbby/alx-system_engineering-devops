@@ -1,1 +1,2 @@
-# Assignments to learn web servers and nginx
+this a readme file for the web server project
+

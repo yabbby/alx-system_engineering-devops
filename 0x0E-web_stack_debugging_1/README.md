@@ -1,1 +1,1 @@
-# [0x0E. Web stack debugging #1]()
+This a readme file for the project web debugging 1
